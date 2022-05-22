@@ -1,1 +1,0 @@
-!(ftc-bot example)[ftc-bot.png]
